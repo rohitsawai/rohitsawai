@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋, I'm Rohit Kiran Sawai! I'm Senior Software Engineer at Tech Mahindra Ltd. focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 <!--
 **rohitsawai/rohitsawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
